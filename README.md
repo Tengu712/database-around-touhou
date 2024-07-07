@@ -25,3 +25,7 @@ If you discover any points that need correction, please submit an issue or pull 
 
 This project has sustainability issues because it is maintained by individuals.
 If you contact us, we will delegate all permissions, so please consider taking over with your organization.
+
+# References
+
+- [東方Wiki](http://thwiki.info/)
